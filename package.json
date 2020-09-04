@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/i-0n/advanced_css#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
